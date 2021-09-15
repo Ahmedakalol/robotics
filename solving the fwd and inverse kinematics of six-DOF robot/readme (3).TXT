@@ -1,0 +1,2 @@
+In this milestone I controlled the robotic manipulator to follow the planned trajectory for the robot’s end effector smoothly,
+ using both high level control (Fuzzy Logic Control) and low level control (PID Control). 
